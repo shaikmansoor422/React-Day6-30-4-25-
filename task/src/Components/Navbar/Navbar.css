@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+#nav{
+    background-color: rgb(8, 113, 142);
+    padding: 25px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#name{
+    font-weight: bolder;
+    font-size: 25px;
+    color: antiquewhite;
+}
+
+
+#nav_right button{
+    color: antiquewhite;
+    border: none;
+    background-color: transparent;
+    padding: 5px;
+    margin: 10px;
+}
+
+button :hover{
+    color: white;
+    font-size: xx-large;
+}
