@@ -4,7 +4,7 @@ const Navbar = () => {
   return (
     <>
     <nav id='nav'>
-        <div id='name'>Gajala Solutions</div>
+        <div id='name'>IT Solutions</div>
         <div id='nav_right'>
             <button>Home</button>
             <button>Contact</button>

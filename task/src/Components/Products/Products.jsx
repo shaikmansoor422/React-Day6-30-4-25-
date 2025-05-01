@@ -12,7 +12,7 @@ const Products = () => {
 
   return (
     <>
-      <Product products={prod_data} />
+    <Product data={prod_data}/>
     </>
   );
 };
